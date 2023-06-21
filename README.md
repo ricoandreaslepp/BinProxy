@@ -19,7 +19,7 @@ Run with `make exploit` (needs docker)
 - [ ] PsExec64.exe
 - [ ] Rubeus.exe -> needs gz
 - [ ] Seatbelt.exe
-- [ ] SharpHound.ps1
+- [x] SharpHound.ps1
 - [ ] winPEAS.exe
 - [ ] linPEAS.sh
 - [ ] pownyshell.php
