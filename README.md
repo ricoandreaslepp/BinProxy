@@ -1,8 +1,9 @@
 # BinProxy
 
 ## Usage
-Run with `make exploit` (needs docker)
+Build the image `docker build -t trafficserver .` and run with `docker run --rm -d --name TrafficServer -p 8080:8080 trafficserver`.
 
+Code forked from https://github.com/sqawasmi/trafficserver-docker.
 
 ## To Do
 
